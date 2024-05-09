@@ -1,7 +1,7 @@
 # Dynamic Forms Application
 
 ## Overview
-This application enables users to securely create, manage, and submit custom forms, and export the collected data for analysis. It leverages robust technologies to provide a comprehensive form management and data analysis solution.
+This application enables users to securely create, manage, and submit custom forms, and export the collected data for analysis.
 
 ## Features
 
